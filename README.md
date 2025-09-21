@@ -33,3 +33,5 @@ we gained valuable experience that we can use to approach our next hackathon.
 ## What's next for Bridging Resource Constraints Using Asteroid Mining
 Having the researchers and engineers design and test a type of reusable rocket that can identify and collect resources from 
 M-type and possibly also L-type asteroids from the main belt (an asteroid belt between Mars and Jupiter).
+
+[Devpost Site](https://devpost.com/software/bridging-resource-constraints-using-asteroid-mining)
